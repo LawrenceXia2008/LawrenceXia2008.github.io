@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Boyang Xia"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Boyang Xia. I am currently a second-year graduate student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.ac.cn/~dbu).
+I am currently a second-year graduate student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.ac.cn/~dbu).
 
 A data-driven personal website
 ======
