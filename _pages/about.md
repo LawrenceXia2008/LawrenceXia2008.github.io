@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Master Candidate  
-Institute of Computing Technology,   
-Chinese Academy of Sciences  
-**Address:**   
-**Email:** xiaboyang20@mails.ucas.ac.cn  
+
 
 About Me
 ======

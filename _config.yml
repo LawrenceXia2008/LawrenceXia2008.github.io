@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Boyang Xia"
 title_separator          : "-"
 name                     : &name "Boyang Xia"
 description              : &description "personal description"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Boyang Xia"
   avatar           : "profile.png"
-  bio              : "Everything will be okay in the end. If it's not okay, it's not the end."
+  bio              : "Master Candidate  
+Institute of Computing Technology,   
+Chinese Academy of Sciences"
   location         : "Beijing, P.R.China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
