@@ -19,7 +19,7 @@
 
 
 
-<title>Boyang Xia - Your Name / Site Title</title>
+<title>About Me - Your Name / Site Title</title>
 
 
 
@@ -29,7 +29,7 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Your Name / Site Title">
-<meta property="og:title" content="Boyang Xia">
+<meta property="og:title" content="About Me">
 
 
   <link rel="canonical" href="http://localhost:4000/">
@@ -238,7 +238,7 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Boyang Xia">
+    <meta itemprop="headline" content="About Me">
     <meta itemprop="description" content="About me">
     
     
@@ -246,7 +246,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Boyang Xia
+          <h1 class="page__title" itemprop="headline">About Me
 </h1>
           
         
@@ -260,39 +260,35 @@
       
 
       <section class="page__content" itemprop="text">
-        <h1 id="about-me">About Me</h1>
-<p>I am currently a second-year graduate student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by <a href="https://teacher.ucas.ac.cn/~0038308">Ke Gao</a> and <a href="https://people.ucas.ac.cn/~dbu">Dongbo Bu</a>.</p>
+        <p>I am currently a second-year graduate student at the <a href="http://www.ict.cas.cn/jssgk/jssjj/">Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</a>, supervised by <a href="https://teacher.ucas.ac.cn/~0038308">Ke Gao</a> and <a href="https://people.ucas.ac.cn/~dbu">Dongbo Bu</a>. Previously, I received my B.E. degree from <a href="https://www.bupt.edu.cn/bygk/zjby/xxjj.htm">Beijing University of Posts and Telecommunications (BUPT)</a> with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on computer vision, especially on video understanding and multimodality learning. I’m dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes.</p>
 
-<p>Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart’s content without touching the content of your site. If you get to a point where you’ve broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over – just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb">this one</a> that analyzes metadata in pages about talks to display <a href="https://academicpages.github.io/talkmap.html">a map of every location you’ve given a talk</a>.</p>
+<h1 id="research--projects">Research &amp; Projects</h1>
+<h2 id="multi-granularity-video-frame-sampler-for-efficient-video-recognition">Multi-granularity Video Frame Sampler for Efficient Video Recognition</h2>
+<!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
+<p>A sampler with a <em><font color="Red">4x faster</font> practical speed than SOTA methods.</em>
+<!-- <img src="images/projects/nsnet.png" width="500" > --></p>
+<div align="center">
+<img src="images/projects/nsnet.png" width="500" />
+</div>
+<!-- <img src="images/projects/nsnet.png" alt="drawing" width="200"/> -->
+<p>To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (<em>4x</em> faster than SOTA methods) on 4 video recognition benchmarks.</p>
 
-<h1 id="getting-started">Getting started</h1>
-<ol>
-  <li>Register a GitHub account if you don’t have one and confirm your e-mail (required!)</li>
-  <li>Fork <a href="https://github.com/academicpages/academicpages.github.io">this repository</a> by clicking the “fork” button in the top right.</li>
-  <li>Go to the repository’s settings (rightmost item in the tabs that start with “Code”, should be below “Unwatch”). Rename the repository “[your GitHub username].github.io”, which will also be your website’s URL.</li>
-  <li>Set site-wide configuration and create content &amp; metadata (see below – also see <a href="http://archive.is/3TPas">this set of diffs</a> showing what files were changed to set up <a href="https://getorg-testacct.github.io">an example site</a> for a user with the username “getorg-testacct”)</li>
-  <li>Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.</li>
-  <li>Check status by going to the repository settings, in the “GitHub pages” section</li>
-</ol>
+<h2 id="multi-modal-video-frame-sampler-for-efficient-video-recognition">Multi-modal Video Frame Sampler for Efficient Video Recognition</h2>
+<!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
+<p><em>The <font color="Red">first work</font> to introduce multimodal prior knowledge to temporal sampling frameworks.</em></p>
+<div align="center">
+<img src="images/projects/tsqnet.png" width="600" />
+</div>
+<p>A human can precisely elect the most informative frames with the aid of prior knowledge about the probable category
+of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.</p>
 
-<h2 id="site-wide-configuration">Site-wide configuration</h2>
-<p>The main configuration file for the site is in the base directory in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml">_config.yml</a>, which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site’s github repository. The configuration file for the top menu is in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml">_data/navigation.yml</a>. For example, if you don’t have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.</p>
+<h1 id="undergraduate-works">Undergraduate works</h1>
+<h2 id="subtle-appearance-anomaly-detection-based-on-deep-learning">Subtle Appearance Anomaly Detection Based on Deep Learning</h2>
+<p>A effective framework for product counterfeit detection.</p>
+<div align="center">
+<img src="images/projects/bishe.png" width="500" />
+</div>
 
-<h2 id="create-content--metadata">Create content &amp; metadata</h2>
-<p>For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the <a href="https://github.com/academicpages/academicpages.github.io/tree/master/_talks">_talks directory</a>. At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the <a href="https://academicpages.github.io/talks">Talks page</a>, each <a href="https://academicpages.github.io/talks/2012-03-01-talk-1">individual page</a> for specific talks, the talks section for the <a href="https://academicpages.github.io/cv">CV page</a>, and the <a href="https://academicpages.github.io/talkmap.html">map of places you’ve given a talk</a> (if you run this <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py">python file</a> or <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb">Jupyter notebook</a>, which creates the HTML for the map based on the contents of the _talks directory).</p>
-
-<p><strong>Markdown generator</strong></p>
-
-<p>I have also created <a href="https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator">a set of Jupyter notebooks</a> that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.</p>
-
-<h2 id="how-to-edit-your-sites-github-repository">How to edit your site’s GitHub repository</h2>
-<p>Many people use a git client to create files on their local computer and then push them to GitHub’s servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md">this one</a> and click the pencil icon in the top right of the content preview (to the right of the “Raw | Blame | History” buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the “Create new file” or “Upload files” buttons.</p>
-
-<p>Example: editing a markdown file for a talk
-<img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" /></p>
-
-<h2 id="for-more-info">For more info</h2>
-<p>More info about configuring academicpages can be found in <a href="https://academicpages.github.io/markdown/">the guide</a>. The <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">guides for the Minimal Mistakes theme</a> (which this theme was forked from) might also be helpful.</p>
 
         
       </section>
