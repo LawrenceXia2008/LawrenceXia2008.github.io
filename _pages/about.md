@@ -31,7 +31,7 @@ To accelerate the video recognition architectures, one typically build a lightwe
 A human can precisely elect the most informative frames with the aid of prior knowledge about the probable category
 of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.
 
-Undergraduate works
+Undergraduate Works
 ===
 ### Subtle Appearance Anomaly Detection Based on Deep Learning
 A weakly-supervised framework with The <font color="Red">70$\%+$</font> annotation savings, appeared as Outstanding Bachelor Thesis Award.  
