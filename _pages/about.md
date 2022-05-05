@@ -52,4 +52,17 @@ Rank 3/1004
 CCF $\times$ Amap. Inc.  
 Rank 3/1007
 
+Publications
+===
+1. Boyang Xia, et al. NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition (Under Review of ECCV22)
+2. Boyang Xia, et al. Temporal Saliency Query Network for Efficient Video Recognition (Under Review of ECCV22)
+3. Li, L., Gao, K., Cao, J., Huang, Z., Weng, Y., Mi, X., ... & **Xia, B**. (2021). Progressive Domain Expansion Network 
+for Single Domain Generalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern 
+Recognition (pp. 224-233).
+4. Yang, H., Wu, W., Wang, L., Jin, S., **Xia, B.**, Yao, H., & Huang, H. (2021) Temporal Action Proposal 
+Generation with Background Constraint (AAAI2022)
+5. **Xia B Y**, Cao C, Han Y H, et al. Universal photonic three-qubit quantum gates with two degrees of 
+freedom assisted by charged quantum dots inside single-sided optical microcavities[J]. Laser Physics, 
+2018, 28(9): 095201.
+
 
