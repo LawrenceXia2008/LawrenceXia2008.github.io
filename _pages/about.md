@@ -12,17 +12,17 @@ I am currently a second-year graduate student at the [Institute of Computing Tec
 
 Research & Projects
 ===
-## Multi-granularity Video Frame Sampler for Efficient Video Recognition  
+### Multi-granularity Video Frame Sampler for Efficient Video Recognition  
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-A sampler with a *<font color="Red">4x faster</font> practical speed than SOTA methods.*
+A sampler with a *<font color="Red">$4\times$ faster</font> practical speed than SOTA methods.*
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
 <div align=center>
 <img src="images/projects/nsnet.png" width="500"/>
 </div>
 <!-- <img src="images/projects/nsnet.png" alt="drawing" width="200"/> -->
-To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*4x* faster than SOTA methods) on 4 video recognition benchmarks. 
+To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
-## Multi-modal Video Frame Sampler for Efficient Video Recognition
+### Multi-modal Video Frame Sampler for Efficient Video Recognition
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 *The <font color="Red">first work</font> to introduce multimodal prior knowledge to temporal sampling frameworks.*
 <div align=center>
@@ -33,11 +33,23 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 
 Undergraduate works
 ===
-## Subtle Appearance Anomaly Detection Based on Deep Learning
-A effective framework for product counterfeit detection.
+### Subtle Appearance Anomaly Detection Based on Deep Learning
+A weakly-supervised framework with The <font color="Red">70$\%+$</font> annotation savings, appeared as Outstanding Bachelor Thesis Award.  
 <div align=center>
 <img src="images/projects/bishe.png" width="500"/>
 </div>
+An efficient and effective framework for product counterfeit detection based on learnable informative region crop. It is notesworthy that the framework only use image-level annotations, without region-level annotions. This work won the honors of the Outstanding Bachelor Thesis Award of BUPT in 2020.
 
+Competitions
+===
+### Competition of Automatic Identification of Butterflies In the Wild in 2020  
+*Object detection task, with small-object, longtail and occlusion challenges.*  
+CCF $\times$ BCDI  
+Rank 3/1004
+
+### Competition of POI name generation in 2021  
+*Text generation with multimodality (image and text) information.*  
+CCF $\times$ Amap. Inc.  
+Rank 3/1007
 
 
