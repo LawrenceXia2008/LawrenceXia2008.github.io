@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Boyang Xia. I am currently a second-year graduate student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496584).
+My name is Boyang Xia. I am currently a second-year graduate student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.ac.cn/~dbu).
 
 A data-driven personal website
 ======
