@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year graduate student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.cas.cn/jssgk/jssjj/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.ac.cn/~dbu). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on computer vision, especially on video understanding and multimodality learning. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
+I am currently a second-year graduate student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.cas.cn/jssgk/jssjj/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on computer vision, especially on video understanding and multimodality learning. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
 
 Research & Projects
 ===
