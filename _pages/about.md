@@ -34,9 +34,10 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 Undergraduate Works
 ===
 ### Subtle Appearance Anomaly Detection Based on Deep Learning
-A weakly-supervised framework with <font color="Red">70$\%+$</font> savings of annotation cost, appeared as Outstanding Bachelor Thesis Award.  
+A weakly-supervised product counterfeit detection framework with <font color="Red">70$\%+$</font> annotation savings, appeared as Outstanding Bachelor Thesis Award.  
 <div align=center>
-<img src="images/projects/bishe.png" width="500"/>
+<!-- <img src="images/projects/bishe.png" width="450" height="200"/><img src="images/projects/secoo.jpg" width="160" height="230"/> -->
+<img src="images/projects/bishe.png" align="center" width="450" style="display:inline;margin:10px 10px 10px 10px;"/><img src="images/projects/secoo.jpg" align="center" width="155" style="display:inline;margin:2px 2px 2px 5px;"/>
 </div>
 An efficient and effective framework for product counterfeit detection based on learnable informative region crop. It is notesworthy that the framework only use image-level annotations, without region-level annotions. This work won the honors of the Outstanding Bachelor Thesis Award of BUPT in 2020.
 
@@ -45,12 +46,12 @@ Competitions
 ### Competition of Automatic Identification of Butterflies In the Wild in 2020  
 *Object detection task, with small-object, longtail and occlusion challenges.*  
 CCF $\times$ BCDI  
-Rank 3/1004
+Rank <font color="Red">3/1004</font>
 
 ### Competition of POI name generation in 2021  
 *Text generation with multimodality (image and text) information.*  
 CCF $\times$ Amap. Inc.  
-Rank 3/1007
+Rank <font color="Red">3/1007</font>
 
 Publications
 ===
