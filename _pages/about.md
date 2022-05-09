@@ -34,7 +34,7 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 Undergraduate Works
 ===
 ### Subtle Appearance Anomaly Detection Based on Deep Learning
-A weakly-supervised framework with The <font color="Red">70$\%+$</font> annotation savings, appeared as Outstanding Bachelor Thesis Award.  
+A weakly-supervised framework with <font color="Red">70$\%+$</font> savings of annotation cost, appeared as Outstanding Bachelor Thesis Award.  
 <div align=center>
 <img src="images/projects/bishe.png" width="500"/>
 </div>
