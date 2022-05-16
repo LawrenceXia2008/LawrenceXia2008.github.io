@@ -51,7 +51,7 @@ Rank <font color="Red">3/1004</font>
 ### POI Name Generation Contest in 2021  
 *Text generation with multimodality (image and text) information.*  
 CCF $\times$ Amap. Inc.  
-Rank <font color="Red">3/1007</font>
+Rank <font color="Red">3/1107</font>
 
 ### Global AI Innovation Contest in 2022
 *Image-text matching of key attributes of e-commerce.*  
