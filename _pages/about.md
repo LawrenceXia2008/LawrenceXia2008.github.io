@@ -43,15 +43,20 @@ An efficient and effective framework for product counterfeit detection based on 
 
 Competitions
 ===
-### Competition of Automatic Identification of Butterflies In the Wild in 2020  
+### Contest of Automatic Identification of Butterflies In the Wild in 2020  
 *Object detection task, with small-object, longtail and occlusion challenges.*  
 CCF $\times$ BCDI  
 Rank <font color="Red">3/1004</font>
 
-### Competition of POI name generation in 2021  
+### POI Name Generation Contest in 2021  
 *Text generation with multimodality (image and text) information.*  
 CCF $\times$ Amap. Inc.  
 Rank <font color="Red">3/1007</font>
+
+### Global AI Innovation Contest in 2022
+*Image-text matching of key attributes of e-commerce.*  
+Chinese Association of Artificial Intelligence $\times$ JD.COM    
+Rank <font color="Red">7/1300+</font>
 
 Publications
 ===
