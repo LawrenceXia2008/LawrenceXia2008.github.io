@@ -12,9 +12,10 @@ I am currently a second-year graduate student at the [Institute of Computing Tec
 
 Research & Projects
 ===
-### Multi-granularity Video Frame Sampler for Efficient Video Recognition  
+### NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition  
+*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-A sampler with a *<font color="Red">$4\times$ faster</font> practical speed than SOTA methods.*
+*<font color="firebrick">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>*
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
 <div align=center>
 <img src="images/projects/nsnet.png" width="500"/>
@@ -22,9 +23,10 @@ A sampler with a *<font color="Red">$4\times$ faster</font> practical speed than
 <!-- <img src="images/projects/nsnet.png" alt="drawing" width="200"/> -->
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
-### Multi-modal Video Frame Sampler for Efficient Video Recognition
+### Temporal Saliency Query Network for Efficient Video Recognition
+*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-*The <font color="Red">first work</font> to introduce multimodal prior knowledge to temporal sampling frameworks.*
+*<font color="firebrick">The first work to introduce multimodal prior knowledge to temporal sampling frameworks.</font>*
 <div align=center>
 <img src="images/projects/tsqnet.png" width="600"/>
 </div>
