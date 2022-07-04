@@ -14,7 +14,7 @@ Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [
 Research & Projects
 ===
 ### NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition  
-*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22).</font>*<font color="red">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22).<\br></font>*<font color="red">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
 <div align=center>
