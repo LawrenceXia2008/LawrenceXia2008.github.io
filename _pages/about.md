@@ -14,9 +14,9 @@ Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [
 Research & Projects
 ===
 ### NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition  
-*Accepted by European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*    
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22)</font>*    
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-*<font color="firebrick">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>*
+<font color="red">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
 <div align=center>
 <img src="images/projects/nsnet.png" width="500"/>
@@ -25,9 +25,9 @@ Research & Projects
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
 ### Temporal Saliency Query Network for Efficient Video Recognition
-*Accepted by European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*  
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22)</font>*  
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-*<font color="firebrick">The first work to introduce multimodal prior knowledge to temporal sampling frameworks.</font>*
+<font color="red">The first work to introduce multimodal prior knowledge to temporal sampling frameworks.</font>
 <div align=center>
 <img src="images/projects/tsqnet.png" width="600"/>
 </div>
@@ -37,8 +37,8 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 Undergraduate Works
 ===
 ### Subtle Appearance Anomaly Detection Based on Deep Learning
-*With the honors of <font color="Red">Outstanding Bachelor Thesis Award</font> in 2020*  
-*<font color="firebrick">A weakly-supervised product counterfeit detection framework with <font color="Red">70$\%+$</font> annotation savings, appeared as Outstanding Bachelor Thesis Award.</font>  
+*With the honors of <font color="firebrick">Outstanding Bachelor Thesis Award</font> in 2020*  
+<font color="red">A weakly-supervised product counterfeit detection framework with 70$\%+$ annotation savings, appeared as Outstanding Bachelor Thesis Award.</font>  
 <div align=center>
 <!-- <img src="images/projects/bishe.png" width="450" height="200"/><img src="images/projects/secoo.jpg" width="160" height="230"/> -->
 <img src="images/projects/bishe.png" align="center" width="450" style="display:inline;margin:10px 10px 10px 10px;"/><img src="images/projects/secoo.jpg" align="center" width="155" style="display:inline;margin:2px 2px 2px 5px;"/>
