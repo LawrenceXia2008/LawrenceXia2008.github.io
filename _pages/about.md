@@ -63,11 +63,12 @@ Publications
 ===
 1. **Boyang Xia**, et al. NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition (Accepted by ECCV'2022)
 2. **Boyang Xia**, et al. Temporal Saliency Query Network for Efficient Video Recognition (Accepted by ECCV'2022)
-3. Li, L., Gao, K., Cao, J., Huang, Z., Weng, Y., Mi, X., ... & **Xia, B**. (2021). Progressive Domain Expansion Network 
+3. Li, L., Gao, K., Cao, J., Huang, Z., Weng, Y., Mi, X., ... & **Xia, B**. Progressive Domain Expansion Network 
 for Single Domain Generalization. (Accepted by CVPR'2021)
 4. Yang, H., Wu, W., Wang, L., Jin, S., **Xia, B.**, Yao, H., & Huang, H. Temporal Action Proposal 
-Generation with Background Constraint (Accepted by AAAI2022)
-5. **Xia B Y**, Cao C, Han Y H, et al. Universal photonic three-qubit quantum gates with two degrees of 
+Generation with Background Constraint (Accepted by AAAI'2022)
+5. Wang, H., He, D., Wu, W., **Xia, B.**, Yang, M., Li, F., Yu, Y., Ji, Z., Ding, E., Wang, J. CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval (Accepted by ECCV'2022)
+6. **Xia B Y**, Cao C, Han Y H, et al. Universal photonic three-qubit quantum gates with two degrees of 
 freedom assisted by charged quantum dots inside single-sided optical microcavities. (Published in Laser Physics, 2018 (SCI District 3))
 
 
