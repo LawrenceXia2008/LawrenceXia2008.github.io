@@ -13,7 +13,7 @@ I am currently a second-year graduate student at the [Institute of Computing Tec
 Research & Projects
 ===
 ### NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition  
-*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*
+*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*    
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 *<font color="firebrick">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>*
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
@@ -24,7 +24,7 @@ Research & Projects
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
 ### Temporal Saliency Query Network for Efficient Video Recognition
-*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*
+*European Conference on Computer Vision 2022 <font color="Red">(ECCV'22)</font>*  
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 *<font color="firebrick">The first work to introduce multimodal prior knowledge to temporal sampling frameworks.</font>*
 <div align=center>
