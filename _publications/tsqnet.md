@@ -1,5 +1,5 @@
 ---
-title: "<center><font size=6>Temporal Saliency Query Network for Efficient Video Recognition</font></center>"
+title: "Temporal Saliency Query Network for Efficient Video Recognition"
 collection: projects
 permalink: /publication/tsqnet
 excerpt: The first work to model temporal sampling as a query-response task
@@ -17,14 +17,14 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <a href="#">Zhihao Wang*</a><sup>1</sup>,&nbsp;
     <a href="https://whwu95.github.io">Wenhao Wu</a><sup>2,3$\dagger$</sup>,&nbsp;
     <a href="#">Haoran Wang</a><sup>2</sup>,&nbsp;
-    <a href="#">Jungong Han</a><sup>1</sup>,&nbsp;
+    <a href="#">Jungong Han</a><sup>4</sup>,&nbsp;
 </span></div>
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <center>
 <sup>1</sup>Institute of Computing Technology &nbsp;
-<sup>2</sup>The University of Sydney&nbsp;
+<sup>2</sup>The University of Sydney   <br />
 <sup>3</sup>Baidu Inc. &nbsp;
 <sup>4</sup>Aberystwyth University
 </center>
