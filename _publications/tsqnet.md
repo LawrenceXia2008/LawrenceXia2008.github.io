@@ -1,7 +1,7 @@
 ---
 title: "Temporal Saliency Query Network for Efficient Video Recognition"
 collection: projects
-permalink: /publication/tsqnet
+permalink: /projects/tsqnet
 excerpt: The first work to model temporal sampling as a query-response task
 date: July 2020
 venue: ECCV2022 (19.9$\%$ acceptance rate)

@@ -1,7 +1,7 @@
 ---
 title: "NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition"
 collection: projects
-permalink: /publication/nsnet
+permalink: /projects/nsnet
 excerpt: A sampler with a $4\times$ faster practical speed than SOTA methods.
 date: July 2020
 venue: ECCV2022 (19.9$\%$ acceptance rate)
