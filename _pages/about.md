@@ -24,7 +24,7 @@ Research & Projects
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
 ### Temporal Saliency Query Network for Efficient Video Recognition
-*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to introduce multimodal prior knowledge to temporal sampling frameworks.</font>
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <div align=center>
 <img src="images/projects/tsqnet.png" width="600"/>
