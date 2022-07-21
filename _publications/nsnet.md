@@ -13,27 +13,28 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <!-- </div> --> 
 <p style="text-align:center;font-size: 15pt;">European Conference on Computer Vision (ECCV) 2022</p>
 <div style="text-align:center;font-size: 15pt;"><span>
-    <a href="https://lawrencexia2008.github.io" target="_blank">Boyang Xia</a><sup>1</sup>*,&nbsp;&nbsp;
-    <a href="https://whwu95.github.io">Wenhao Wu</a><sup>2,3$\dagger$</sup>*,&nbsp;
-    <a href="#">Haoran Wang</a><sup>3</sup>,&nbsp;
-    <a href="#">Rui Su</a><sup>4</sup>,&nbsp;
-    <a href="#">Dongliang He</a><sup>3</sup>,&nbsp;
-    <a href="#">Haosen Yang</a><sup>5</sup>,&nbsp;
-    <a href="#">Xiaoran Fan</a><sup>1</sup>,&nbsp;
-    <a href="https://wlouyang.github.io" target="_blank">Wanli Ouyang</a><sup>4,2</sup>&nbsp;
+    <a href="https://lawrencexia2008.github.io" target="_blank">Boyang Xia</a><sup>1,2</sup>*,&nbsp;&nbsp;
+    <a href="https://whwu95.github.io">Wenhao Wu</a><sup>3,4$\dagger$</sup>*,&nbsp;
+    <a href="#">Haoran Wang</a><sup>4</sup>,&nbsp;
+    <a href="#">Rui Su</a><sup>5</sup>,&nbsp;
+    <a href="#">Dongliang He</a><sup>4</sup>,&nbsp;
+    <a href="#">Haosen Yang</a><sup>6</sup>,&nbsp;
+    <a href="#">Xiaoran Fan</a><sup>1,2</sup>,&nbsp;
+    <a href="https://wlouyang.github.io" target="_blank">Wanli Ouyang</a><sup>5,3</sup>&nbsp;
 </span></div>
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <center>
-<sup>1</sup>Institute of Computing Technology &nbsp;
-<sup>2</sup>The University of Sydney&nbsp;
-<sup>3</sup>Baidu Inc. &nbsp; <br />
-<sup>4</sup>Shanghai AI Laboratory &nbsp;
-<sup>5</sup>Harbin Institute of Technology
+<sup>1</sup>Institute of Computing Technology, Chinese Academy of Sciences <br />
+<sup>2</sup>University of Chinese Academy of Sciences &nbsp;
+<sup>3</sup>The University of Sydney <br />
+<sup>4</sup>Baidu Inc. &nbsp; 
+<sup>5</sup>Shanghai AI Laboratory &nbsp;
+<sup>6</sup>Harbin Institute of Technology
 </center>
 <div style="text-align:center;font-size: 16pt;"><span>
-    <a href="https://lawrencexia2008.github.io/projects/nsnet">Webpage</a> | <a href="https://lawrencexia2008.github.io/projects/nsnet">Paper</a>
+    <a href="https://lawrencexia2008.github.io/projects/nsnet">Code</a> | <a href="https://lawrencexia2008.github.io/projects/nsnet">Paper</a>
 </span></div>
 
 <br />

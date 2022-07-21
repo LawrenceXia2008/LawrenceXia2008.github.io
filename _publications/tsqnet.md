@@ -13,25 +13,26 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <!-- </div> --> 
 <p style="text-align:center;font-size: 15pt;">European Conference on Computer Vision (ECCV) 2022</p>
 <div style="text-align:center;font-size: 15pt;"><span>
-    <a href="https://lawrencexia2008.github.io" target="_blank">Boyang Xia</a><sup>1</sup>*,&nbsp;
-    <a href="#">Zhihao Wang</a><sup>1</sup>*,&nbsp;
-    <a href="https://whwu95.github.io">Wenhao Wu</a><sup>2,3$\dagger$</sup>,&nbsp;
-    <a href="#">Haoran Wang</a><sup>2</sup>,&nbsp;
-    <a href="#">Jungong Han</a><sup>4</sup>,&nbsp;
+    <a href="https://lawrencexia2008.github.io" target="_blank">Boyang Xia</a><sup>1,2</sup>*,&nbsp;
+    <a href="#">Zhihao Wang</a><sup>1,2</sup>*,&nbsp;
+    <a href="https://whwu95.github.io">Wenhao Wu</a><sup>3,4$\dagger$</sup>,&nbsp;
+    <a href="#">Haoran Wang</a><sup>3</sup>,&nbsp;
+    <a href="#">Jungong Han</a><sup>5</sup>,&nbsp;
 </span></div>
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <center>
-<sup>1</sup>Institute of Computing Technology &nbsp;
-<sup>2</sup>The University of Sydney   <br />
-<sup>3</sup>Baidu Inc. &nbsp;
-<sup>4</sup>Aberystwyth University
+<sup>1</sup>Institute of Computing Technology, Chinese Academy of Sciences <br />
+<sup>2</sup>University of Chinese Academy of Sciences <br />
+<sup>3</sup>The University of Sydney &nbsp;   
+<sup>4</sup>Baidu Inc. &nbsp;
+<sup>5</sup>Aberystwyth University
 </center>
 
 
 <div style="text-align:center;font-size: 16pt;"><span>
-    <a href="https://lawrencexia2008.github.io/projects/tsqnet">Webpage</a> | <a href="https://lawrencexia2008.github.io/projects/tsqnet">Paper</a>
+    <a href="https://lawrencexia2008.github.io/projects/tsqnet">Code</a> | <a href="https://lawrencexia2008.github.io/projects/tsqnet">Paper</a>
 </span></div>
 <div align=center>
 
