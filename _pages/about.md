@@ -35,7 +35,9 @@ A human can precisely elect the most informative frames with the aid of prior kn
 of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.
 
 ### Time Series Anomaly Detection with Memory-Enhanced Composite Neural Networks
-*Technical report.*<br /><font color="red">An effective framework for multivariate unsupervised time series anomaly detection.</font>
+*Technical report.*
+<br /><font color="red">An effective framework for multivariate unsupervised time series anomaly detection.</font>
+[<a href="https://lawrencexia.github.io/files/time_series.pdf" target="_blank">Paper</a>]|[<a href="https://github.com/anomalydetector/MCCED" target="_blank">code</a>]
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <div align=center>
 <img src="images/projects/timeseries.png" width="300"/>
