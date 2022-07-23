@@ -32,14 +32,7 @@ To accelerate the video recognition architectures, one typically build a lightwe
 A human can precisely elect the most informative frames with the aid of prior knowledge about the probable category
 of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.
 
-### Temporal Saliency Query Network for Efficient Video Recognition
-*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
-<!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
-<div align=center>
-<img src="images/projects/tsqnet.png" width="600"/>
-</div>
-A human can precisely elect the most informative frames with the aid of prior knowledge about the probable category
-of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.
+### Dummy time series
 
 Undergraduate Works
 ===
