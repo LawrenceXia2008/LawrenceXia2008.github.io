@@ -32,7 +32,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 
 <div style="text-align:center;font-size: 16pt;"><span>
-    <a href="https://lawrencexia2008.github.io/projects/tsqnet">Code</a> | <a href="https://lawrencexia2008.github.io/projects/tsqnet">Paper</a>
+    <a href="https://lawrencexia2008.github.io/projects/tsqnet">Code</a> | <a href="https://arxiv.org/abs/2207.10379">Paper</a>
 </span></div>
 <div align=center>
 

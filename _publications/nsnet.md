@@ -34,7 +34,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <sup>6</sup>Harbin Institute of Technology
 </center>
 <div style="text-align:center;font-size: 16pt;"><span>
-    <a href="https://lawrencexia2008.github.io/projects/nsnet">Code</a> | <a href="https://lawrencexia2008.github.io/projects/nsnet">Paper</a>
+    <a href="https://lawrencexia2008.github.io/projects/nsnet">Code</a> | <a href="https://arxiv.org/abs/2207.10388">Paper</a>
 </span></div>
 
 <br />
