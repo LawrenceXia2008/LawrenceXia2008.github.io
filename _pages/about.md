@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 I am currently a second-year graduate student at the [Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS),
+<<<<<<< HEAD
 Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.edu.cn/~dbu?language=en). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on artificial intelligence, especially on computer vision and time series analysis. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
+=======
+Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.edu.cn/~dbu?language=en). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on computer vision, especially on video understanding and time series analysis. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
+>>>>>>> dev
 
 Research & Projects
 ===
