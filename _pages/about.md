@@ -39,7 +39,7 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 ### Time Series Anomaly Detection with Memory-Enhanced Composite Neural Networks
 *Technical report.*
 <br /><font color="red">An effective framework for multivariate unsupervised time series anomaly detection.</font>
-<br />[<a href="https://lawrencexia2008.github.io/files/time_series.pdf" target="_blank">Paper</a>]|[<a href="https://github.com/anomalydetector/MCCED" target="_blank">Code</a>]
+<br />[<a href="https://lawrencexia2008.github.io/files/time_series.pd" target="_blank">Paper</a>]|[<a href="https://github.com/anomalydetector/MCCED" target="_blank">Code</a>]
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <div align=center>
 <img src="images/projects/timeseries.png" width="300"/>
