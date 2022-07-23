@@ -14,8 +14,9 @@ Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [
 Research & Projects
 ===
 ### NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition  
-*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>
-[<a href="https://arxiv.org/abs/2207.10388" target="_blank">Paper</a>]|[<a href="https://lawrencexia2008.github.io/projects/nsnet" target="_blank">Project</a>]
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*
+<br /><font color="red">A sampler with a $4\times$ faster practical speed than SOTA methods.</font>
+<br />[<a href="https://arxiv.org/abs/2207.10388" target="_blank">Paper</a>]|[<a href="https://lawrencexia2008.github.io/projects/nsnet" target="_blank">Project</a>]
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <!-- <img src="images/projects/nsnet.png" width="500" > -->
 <div align=center>
@@ -25,8 +26,9 @@ Research & Projects
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
 
 ### Temporal Saliency Query Network for Efficient Video Recognition
-*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
-[<a href="https://arxiv.org/abs/2207.10379" target="_blank">Paper</a>]|[<a href="https://lawrencexia2008.github.io/projects/tsqnet" target="_blank">Project</a>]
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*
+<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
+<br />[<a href="https://arxiv.org/abs/2207.10379" target="_blank">Paper</a>]|[<a href="https://lawrencexia2008.github.io/projects/tsqnet" target="_blank">Project</a>]
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <div align=center>
 <img src="images/projects/tsqnet.png" width="600"/>
@@ -37,7 +39,7 @@ of the video. Inspired by this intuition, we pioneeringly cast frame sampling as
 ### Time Series Anomaly Detection with Memory-Enhanced Composite Neural Networks
 *Technical report.*
 <br /><font color="red">An effective framework for multivariate unsupervised time series anomaly detection.</font>
-[<a href="https://lawrencexia.github.io/files/time_series.pdf" target="_blank">Paper</a>]|[<a href="https://github.com/anomalydetector/MCCED" target="_blank">code</a>]
+<br />[<a href="https://lawrencexia.github.io/files/time_series.pdf" target="_blank">Paper</a>]|[<a href="https://github.com/anomalydetector/MCCED" target="_blank">Code</a>]
 <!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
 <div align=center>
 <img src="images/projects/timeseries.png" width="300"/>
