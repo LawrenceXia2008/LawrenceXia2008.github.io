@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a second-year graduate student at the [Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS),
-Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.edu.cn/~dbu?language=en). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on computer vision, especially on video understanding and multimodality learning. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
+Institute of Computing Technology, CAS](https://iip.ict.ac.cn/), supervised by [Ke Gao](https://teacher.ucas.ac.cn/~0038308) and [Dongbo Bu](https://people.ucas.edu.cn/~dbu?language=en). Previously, I received my B.E. degree from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/bygk/zjby/xxjj.htm) with honors of the Outstanding Bachelor Thesis Award in 2020. I am focusing on artificial intelligence, especially on computer vision and time series analysis. I'm dedicated to developing more robust, efficient and explainable AI models, to pushing them towards practical applications in daily lifes. 
 
 Research & Projects
 ===
@@ -22,6 +22,15 @@ Research & Projects
 </div>
 <!-- <img src="images/projects/nsnet.png" alt="drawing" width="200"/> -->
 To accelerate the video recognition architectures, one typically build a lightweight video key frame sampler to firstly sample a few salient frames and then evoke a recognizer on them, to reduce temporal redundancies. However, existing methods neglect the discrimination between non-salient frames and salient ones in training objectives. We introduced a novel multi-granularity supervision scheme to suppress the non-salient frames and achieved SOTA accuracy with very low GFLOPs and wall-clock time (*$4\times$* faster than SOTA methods) on 4 video recognition benchmarks. 
+
+### Temporal Saliency Query Network for Efficient Video Recognition
+*Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
+<!-- During internship in the Computer Vision Technology Department of Baidu. Inc. -->
+<div align=center>
+<img src="images/projects/tsqnet.png" width="600"/>
+</div>
+A human can precisely elect the most informative frames with the aid of prior knowledge about the probable category
+of the video. Inspired by this intuition, we pioneeringly cast frame sampling as a query-response task to introduce category prior knowledge from both visual and textual modalities in temporal sampling framework. Experimental results show the efficacy of our method on both and practical speed.
 
 ### Temporal Saliency Query Network for Efficient Video Recognition
 *Accepted by European Conference on Computer Vision 2022 <font color="firebrick">(ECCV'22, 19.9$\%$ acceptance rate).</font>*<br /><font color="red">The first work to model temporal sampling as a query-response task.</font>
